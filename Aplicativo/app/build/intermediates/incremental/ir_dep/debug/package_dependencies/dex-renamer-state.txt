@@ -1,0 +1,4 @@
+#Sat Sep 08 21:32:18 BRT 2018
+base.0=/Users/patrickbattisti/AndroidStudioProjects/qchat/app/build/intermediates/transforms/dexMerger/debug/61
+path.0=classes.dex
+renamed.0=classes.dex
